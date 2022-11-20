@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MCU_Microchip_ATmega:ATmega328P-PU U1
+L usbasp16Mhz-rescue:ATmega328P-PU-MCU_Microchip_ATmega U1
 U 1 1 5FC8D473
 P 4350 4150
 F 0 "U1" H 3706 4196 50  0000 R CNN
