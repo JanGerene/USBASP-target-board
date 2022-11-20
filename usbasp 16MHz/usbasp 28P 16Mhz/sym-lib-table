@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name usbasp16Mhz-rescue)(type Legacy)(uri ${KIPRJMOD}/usbasp16Mhz-rescue.lib)(options "")(descr ""))
+  (lib (name usbasp16Mhz-cache)(type Legacy)(uri ${KIPRJMOD}/usbasp16Mhz-cache.lib)(options "")(descr ""))
 )

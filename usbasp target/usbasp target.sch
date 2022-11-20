@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MCU_Microchip_ATtiny:ATtiny13-20PU U1
+L usbasp-target-rescue:ATtiny13-20PU-MCU_Microchip_ATtiny U1
 U 1 1 5FA129F9
 P 4650 2500
 F 0 "U1" H 5150 1950 50  0000 R CNN
@@ -25,7 +25,7 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf" H 4650 2500 50
 	1    0    0    -1  
 $EndComp
 $Comp
-L MCU_Microchip_ATmega:ATmega8-16PU U3
+L usbasp-target-rescue:ATmega8-16PU-MCU_Microchip_ATmega U3
 U 1 1 5FA13926
 P 7150 3300
 F 0 "U3" H 6450 1950 50  0000 C CNN
@@ -36,7 +36,7 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2486-8-bit-avr-microc
 	1    0    0    -1  
 $EndComp
 $Comp
-L MCU_Microchip_ATtiny:ATtiny2313V-10PU U2
+L usbasp-target-rescue:ATtiny2313V-10PU-MCU_Microchip_ATtiny U2
 U 1 1 5FA14768
 P 4700 5400
 F 0 "U2" H 4250 6600 50  0000 C CNN
